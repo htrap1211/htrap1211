@@ -30,6 +30,10 @@
 <img width="45 px" height="44 px" src="Images/twitter.png"></a>
 </p>
 
+<p align="center">
+<a href="http://github-readme-streak-stats.herokuapp.com?user=htrap1211&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=htrap1211&theme=gotham&date_format=M%20j%5B%2C%20Y%5D"></a>
+</p>
 <hr>
 
 ## 📊 My GitHub Stats
