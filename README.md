@@ -1,4 +1,4 @@
-# Parth Rathi  
+## Parth Rathi  
 **Engineer. Creator. Limit-Breaker.**
 
 Computer Engineering grad from SRM University, diving into AI and Linux. Ex-BARC engineer—built reactor systems with Python and FastAPI, upping efficiency by 40%. My Chrome Web Store Multi-To-Do List (4.5 stars, 113 users) kills chaos.
@@ -18,7 +18,8 @@ Code that changes the world—fast, scalable, open.
 - **Multi-To-Do:** Chrome Web Store, 113 users, 4.5 stars—pure function.  
 
 ### Connect  
-- [Portfolio](https://htrap1211.vercel.app)  
-- [Twitter](https://twitter.com/htrap1211)  
+- [Portfolio/htrap1211](https://htrap1211.vercel.app)  
+- [X](https://twitter.com/htrap1211)
+- [Linkdln](www.linkedin.com/in/htrap1211)  
 
 **Next:** Tech that rewrites the rules.
