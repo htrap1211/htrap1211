@@ -1,4 +1,4 @@
-## Parth Rathi  
+# Parth Rathi  
 **Engineer. Creator. Limit-Breaker.**
 
 Computer Engineering grad from SRM University, diving into AI and Linux. Ex-BARC engineer—built reactor systems with Python and FastAPI, upping efficiency by 40%. My Chrome Web Store Multi-To-Do List (4.5 stars, 113 users) kills chaos.
