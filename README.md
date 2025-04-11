@@ -20,6 +20,6 @@ Code that changes the world—fast, scalable, open.
 ### Connect  
 - [Portfolio/htrap1211](https://htrap1211.vercel.app)  
 - [X](https://twitter.com/htrap1211)
-- [Linkdln](www.linkedin.com/in/htrap1211)  
+- [Linkedin](www.linkedin.com/in/htrap1211)  
 
 **Next:** Tech that rewrites the rules.
