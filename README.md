@@ -1,140 +1,160 @@
 <div align="center">
 
 ```ascii
-██████╗  █████╗ ██████╗ ████████╗██╗  ██╗    ██████╗  █████╗ ████████╗██╗  ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║    ██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║
-██████╔╝███████║██████╔╝   ██║   ███████║    ██████╔╝███████║   ██║   ███████║██║
-██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║    ██╔══██╗██╔══██║   ██║   ██╔══██║██║
-██║     ██║  ██║██║  ██║   ██║   ██║  ██║    ██║  ██║██║  ██║   ██║   ██║  ██║██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗  ██╗████████╗██████╗  █████╗ ██████╗     ████████╗███████╗██████╗    ║
+║   ██║  ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗   ║
+║   ███████║   ██║   ██████╔╝███████║██████╔╝       ██║   █████╗  ██████╔╝   ║
+║   ██╔══██║   ██║   ██╔══██╗██╔══██║██╔═══╝        ██║   ██╔══╝  ██╔══██╗   ║
+║   ██║  ██║   ██║   ██║  ██║██║  ██║██║            ██║   ███████╗██║  ██║   ║
+║   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝            ╚═╝   ╚══════╝╚═╝  ╚═╝   ║
+║                                                                              ║
+║                    Full-Stack Dev | ML Engineer | OSINT                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+Engineer;OSINT+Specialist;Building+the+impossible" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+systems+that+don't+exist+yet;Decoding+reality+through+code;Breaking+limits%2C+one+algorithm+at+a+time" alt="Typing Animation" />
 
 </div>
 
 ```bash
-┌─[htrap@stuttgart]─[~]
-└──╼ $ cat identity.json
+┌─[guest@htrap]─[~]
+└──╼ $ cat intro.txt
 ```
 
-```json
-{
-  "name": "Parth Rathi",
-  "role": "Computer Science Master's Student",
-  "location": "University of Stuttgart, Germany",
-  "focus": ["Full-Stack Development", "Machine Learning", "Cybersecurity", "OSINT"],
-  "status": "Building systems that don't exist yet"
-}
+```yaml
+name: Parth Rathi
+role: Computer Science Master's Student
+location: University of Stuttgart, Germany
+status: Online
+specialization:
+  - Full-Stack Development
+  - Machine Learning & AI
+  - OSINT & Cybersecurity
+  - Real-time Systems
 ```
 
-<br/>
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ ./launch_terminal.sh
+```
 
 <div align="center">
 
-## ⚡ CORE METRICS
+### 🚀 [ENTER INTERACTIVE TERMINAL](https://htrap1211.github.io/terminal) 🚀
+
+*Experience my portfolio in a fully interactive terminal interface*
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ SYSTEM METRICS
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htrap1211&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41&count_private=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=htrap1211&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 
-<img src="https://raw.githubusercontent.com/htrap1211/htrap1211/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph" />
-
 </div>
 
-<br/>
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ cat projects.yaml
+```
 
-## 🎯 ACTIVE PROJECTS
+## 🎯 FEATURED PROJECTS
 
 ```yaml
 GraphX-OSINT:
   status: Production
   stack: [FastAPI, Neo4j, Celery, Next.js]
-  desc: Real-time threat intelligence platform with 10+ OSINT providers
+  desc: Real-time threat intelligence platform
+  features: [10+ OSINT providers, Risk scoring, Graph analysis]
 
 Phishing-Detection:
   status: Deployed
   stack: [ML, FastAPI, PostgreSQL, Browser Extension]
-  desc: Real-time phishing detection using machine learning
-
-ACL-MetaExplorer:
-  status: Complete
-  stack: [Python, Streamlit, Neo4j]
-  desc: Research analytics with graph-based analysis
+  desc: Real-time phishing detection system
+  accuracy: High
 
 Neuralipnet:
   status: Optimized
   stack: [TensorFlow, OpenCV]
-  desc: Real-time lip-reading AI (75% accuracy)
+  desc: Real-time lip-reading AI
+  accuracy: 75%
 
 YOLOv5-Detection:
   status: Open Source
   stack: [PyTorch, YOLOv5]
-  desc: Object detection (92.4% accuracy, 30% faster)
+  desc: Object detection system
+  performance: 92.4% accuracy, 30% faster
 ```
 
-<br/>
-
-## 💻 TECH STACK
-
-```python
-class TechStack:
-    languages = ["Python", "C++", "JavaScript", "TypeScript", "C"]
-    frameworks = ["FastAPI", "Angular", "React", "Next.js", "Node.js"]
-    databases = ["PostgreSQL", "Neo4j", "MongoDB", "Redis"]
-    ml_ai = ["TensorFlow", "PyTorch", "OpenCV", "scikit-learn"]
-    tools = ["Docker", "Kubernetes", "Git", "Linux", "AWS"]
-    
-    @property
-    def current_focus(self):
-        return {
-            "OSINT": "████████████████░░░░ 80%",
-            "ML": "████████████░░░░░░░░ 60%",
-            "DevOps": "██████████████░░░░░░ 70%"
-        }
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ cat tech_stack.json
 ```
 
 <div align="center">
+
+## 💻 TECH ARSENAL
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,react,nextjs,angular,nodejs,tensorflow" />
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,neo4j,docker,kubernetes,git,linux,aws,vscode" />
 
 </div>
 
-<br/>
+```python
+class Skills:
+    languages = ["Python", "C++", "JavaScript", "TypeScript", "C"]
+    frameworks = ["FastAPI", "Angular", "React", "Next.js"]
+    databases = ["PostgreSQL", "Neo4j", "MongoDB", "Redis"]
+    ml_ai = ["TensorFlow", "PyTorch", "OpenCV"]
+    tools = ["Docker", "Kubernetes", "Git", "Linux", "AWS"]
+    
+    focus = {
+        "OSINT": "████████████████░░░░ 80%",
+        "ML": "████████████░░░░░░░░ 60%",
+        "DevOps": "██████████████░░░░░░ 70%"
+    }
+```
+
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ cat experience.log
+```
 
 ## 🏢 EXPERIENCE
 
-```python
-experience = {
-    "Software Engineering Intern": {
-        "org": "Bhabha Atomic Research Centre (BARC)",
-        "location": "Mumbai, India",
-        "period": "Jul 2023 - Jan 2024",
-        "impact": {
-            "processing_speed": "+20%",
-            "load_time": "-25%",
-            "response_time": "-40%",
-            "data_retrieval": "+35%",
-            "throughput": "50K+ data points/hour"
-        },
-        "tech": ["Python", "FastAPI", "PostgreSQL", "Angular", "Redis", "UART"]
-    }
-}
+```log
+[2023-07-01 -> 2024-01-31] Software Engineering Intern
+  ORG: Bhabha Atomic Research Centre (BARC)
+  LOC: Mumbai, India
+  
+  PROJECT: Radiation Spectrum Analysis System
+  
+  IMPACT:
+    [+] Processing speed: +20%
+    [+] Load time: -25%
+    [+] Response time: -40%
+    [+] Data retrieval: +35%
+    [+] Throughput: 50K+ data points/hour
+  
+  STACK: Python | FastAPI | PostgreSQL | Angular | Redis | UART
+  
+  SCOPE: System used by researchers at India's premier nuclear
+         research facility for radiation spectrum analysis
 ```
 
-<br/>
-
 <div align="center">
 
-## 📊 ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=htrap1211&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ ls -la social/
+```
 
 ## 🔗 CONNECT
 
@@ -148,7 +168,28 @@ experience = {
 
 </div>
 
-<br/>
+---
+
+<div align="center">
+
+```bash
+┌─[guest@htrap]─[~]
+└──╼ $ cat /var/log/activity.log
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=htrap1211&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/htrap1211/htrap1211/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
 
 <div align="center">
 
@@ -160,6 +201,8 @@ experience = {
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Neural+interface+active;Quantum+processors+online;Ready+for+next+mission+_" alt="Status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System+ready;Neural+interface+active;Awaiting+next+command+_" alt="Status" />
+
+### 💡 Pro Tip: Type `help` in the [interactive terminal](https://htrap1211.github.io/terminal) to explore all features
 
 </div>
