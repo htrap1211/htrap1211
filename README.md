@@ -1,208 +1,137 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗  ██╗████████╗██████╗  █████╗ ██████╗     ████████╗███████╗██████╗    ║
-║   ██║  ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗   ║
-║   ███████║   ██║   ██████╔╝███████║██████╔╝       ██║   █████╗  ██████╔╝   ║
-║   ██╔══██║   ██║   ██╔══██╗██╔══██║██╔═══╝        ██║   ██╔══╝  ██╔══██╗   ║
-║   ██║  ██║   ██║   ██║  ██║██║  ██║██║            ██║   ███████╗██║  ██║   ║
-║   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝            ╚═╝   ╚══════╝╚═╝  ╚═╝   ║
-║                                                                              ║
-║                    Full-Stack Dev | ML Engineer | OSINT                     ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+# Parth Rathi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+systems+that+don't+exist+yet;Decoding+reality+through+code;Breaking+limits%2C+one+algorithm+at+a+time" alt="Typing Animation" />
+**Full-Stack Developer • ML Engineer • OSINT Specialist**
 
-</div>
+Stuttgart, Germany • [Portfolio](https://htrap1211.vercel.app) • [Email](mailto:htrap1211@icloud.com)
 
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ cat intro.txt
-```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htrap1211/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/htrap1211)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/htrap1211)
 
-```yaml
-name: Parth Rathi
-role: Computer Science Master's Student
-location: University of Stuttgart, Germany
-status: Online
-specialization:
-  - Full-Stack Development
-  - Machine Learning & AI
-  - OSINT & Cybersecurity
-  - Real-time Systems
-```
-
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ ./launch_terminal.sh
-```
-
-<div align="center">
-
-### 🚀 [ENTER INTERACTIVE TERMINAL](https://htrap1211.github.io/terminal) 🚀
-
-*Experience my portfolio in a fully interactive terminal interface*
+![Profile Views](https://komarev.com/ghpvc/?username=htrap1211&color=orange&style=flat)
 
 </div>
 
 ---
 
-<div align="center">
+## 📰 Latest Updates
 
-## ⚡ SYSTEM METRICS
+<table>
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>GraphX-OSINT - Real-time Threat Intelligence Platform</b><br>
+<sub>Posted by htrap1211 • Production • FastAPI, Neo4j, Celery, Next.js</sub>
+<br><br>
+Built a production-grade OSINT investigation platform with 10+ intelligence providers, risk scoring engine, and interactive graph workspace. Features distributed enrichment pipelines using Celery workers and real-time visual updates.
+<br><br>
+<sub>💬 Key Features: Multi-source enrichment • Risk scoring (0-100) • Graph analytics • PDF reports</sub>
+</td>
+</tr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htrap1211&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&ring_color=00ff41&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=htrap1211&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>URL Phishing Detection System - ML-Powered Security</b><br>
+<sub>Posted by htrap1211 • Deployed • Machine Learning, FastAPI, PostgreSQL</sub>
+<br><br>
+Developed real-time phishing detection platform using machine learning and threat intelligence APIs (Google Safe Browsing, VirusTotal). Built browser extension for instant risk alerts and safe-browsing feedback.
+<br><br>
+<sub>💬 Tech: Logistic Regression • BERT • Browser Extension • Multi-source verification</sub>
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>Software Engineering Intern @ BARC - Nuclear Research Systems</b><br>
+<sub>Posted by htrap1211 • Jul 2023 - Jan 2024 • Mumbai, India</sub>
+<br><br>
+Contributed to radiation spectrum analysis system at India's premier nuclear research facility. Improved processing speed by 20%, reduced load time by 25%, and cut response time by 40%. System processes 50K+ data points per hour.
+<br><br>
+<sub>💬 Impact: +20% speed • -25% load time • -40% response time • 50K+ points/hour</sub>
+</td>
+</tr>
 
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ cat projects.yaml
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>ACL-MetaExplorer - Research Analytics Tool</b><br>
+<sub>Posted by htrap1211 • Complete • Python, Streamlit, Neo4j, SQLite</sub>
+<br><br>
+Research analytics tool with graph-based analysis. Applied TF-IDF text analysis for topic relevance extraction and modeled citation networks to identify influential research and collaboration patterns.
+<br><br>
+<sub>💬 Features: TF-IDF analysis • Citation networks • Interactive visualizations</sub>
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>Neuralipnet - Real-time Lip Reading AI</b><br>
+<sub>Posted by htrap1211 • Optimized • TensorFlow, OpenCV, Deep Learning</sub>
+<br><br>
+Developed and optimized lip-reading model achieving 75% accuracy on custom dataset. Implemented real-time video processing pipeline for live lip-reading applications with efficient inference.
+<br><br>
+<sub>💬 Performance: 75% accuracy • Real-time processing • Optimized architecture</sub>
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">⬆️<br><b>★</b></td>
+<td>
+<b>YOLOv5 Detection - High-Performance Computer Vision</b><br>
+<sub>Posted by htrap1211 • Open Source • PyTorch, YOLOv5</sub>
+<br><br>
+Built high-accuracy object detection system reaching 92.4% accuracy with 30% faster inference. Optimized model architecture for efficient deployment in production environments.
+<br><br>
+<sub>💬 Metrics: 92.4% accuracy • 30% faster • Open source</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+```
+Languages:     Python • C++ • JavaScript • TypeScript • C
+Frameworks:    FastAPI • Angular • React • Next.js • Node.js
+Databases:     PostgreSQL • Neo4j • MongoDB • Redis • Firebase
+ML/AI:         TensorFlow • PyTorch • OpenCV • scikit-learn
+DevOps:        Docker • Kubernetes • Git • Linux • AWS
 ```
 
-## 🎯 FEATURED PROJECTS
+---
 
-```yaml
-GraphX-OSINT:
-  status: Production
-  stack: [FastAPI, Neo4j, Celery, Next.js]
-  desc: Real-time threat intelligence platform
-  features: [10+ OSINT providers, Risk scoring, Graph analysis]
-
-Phishing-Detection:
-  status: Deployed
-  stack: [ML, FastAPI, PostgreSQL, Browser Extension]
-  desc: Real-time phishing detection system
-  accuracy: High
-
-Neuralipnet:
-  status: Optimized
-  stack: [TensorFlow, OpenCV]
-  desc: Real-time lip-reading AI
-  accuracy: 75%
-
-YOLOv5-Detection:
-  status: Open Source
-  stack: [PyTorch, YOLOv5]
-  desc: Object detection system
-  performance: 92.4% accuracy, 30% faster
-```
-
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ cat tech_stack.json
-```
-
-<div align="center">
-
-## 💻 TECH ARSENAL
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,fastapi,react,nextjs,angular,nodejs,tensorflow" />
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,neo4j,docker,kubernetes,git,linux,aws,vscode" />
-
-</div>
-
-```python
-class Skills:
-    languages = ["Python", "C++", "JavaScript", "TypeScript", "C"]
-    frameworks = ["FastAPI", "Angular", "React", "Next.js"]
-    databases = ["PostgreSQL", "Neo4j", "MongoDB", "Redis"]
-    ml_ai = ["TensorFlow", "PyTorch", "OpenCV"]
-    tools = ["Docker", "Kubernetes", "Git", "Linux", "AWS"]
-    
-    focus = {
-        "OSINT": "████████████████░░░░ 80%",
-        "ML": "████████████░░░░░░░░ 60%",
-        "DevOps": "██████████████░░░░░░ 70%"
-    }
-```
-
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ cat experience.log
-```
-
-## 🏢 EXPERIENCE
-
-```log
-[2023-07-01 -> 2024-01-31] Software Engineering Intern
-  ORG: Bhabha Atomic Research Centre (BARC)
-  LOC: Mumbai, India
-  
-  PROJECT: Radiation Spectrum Analysis System
-  
-  IMPACT:
-    [+] Processing speed: +20%
-    [+] Load time: -25%
-    [+] Response time: -40%
-    [+] Data retrieval: +35%
-    [+] Throughput: 50K+ data points/hour
-  
-  STACK: Python | FastAPI | PostgreSQL | Angular | Redis | UART
-  
-  SCOPE: System used by researchers at India's premier nuclear
-         research facility for radiation spectrum analysis
-```
+## 📊 GitHub Stats
 
 <div align="center">
 
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ ls -la social/
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=htrap1211&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrap1211&layout=compact&theme=default&hide_border=true" />
 
-## 🔗 CONNECT
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=00ff41)](https://htrap1211.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/htrap1211/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00ff41)](https://github.com/htrap1211)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=00ff41)](https://twitter.com/htrap1211)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=00ff41)](mailto:htrap1211@icloud.com)
-
-<img src="https://komarev.com/ghpvc/?username=htrap1211&color=00ff41&style=flat&label=views" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=htrap1211&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-```bash
-┌─[guest@htrap]─[~]
-└──╼ $ cat /var/log/activity.log
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=htrap1211&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="100%" />
-
-</div>
+- 🔍 Building OSINT intelligence platforms
+- 🤖 Optimizing ML models for production
+- 🛡️ Exploring cybersecurity and threat detection
+- 📚 Master's in Computer Science @ University of Stuttgart
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/htrap1211/htrap1211/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+**Open to collaborations and interesting projects**
 
-</div>
-
----
-
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║  > Decoding reality through code                           ║
-║  > Building systems that don't exist yet                   ║
-║  > Breaking limits, one algorithm at a time                ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=System+ready;Neural+interface+active;Awaiting+next+command+_" alt="Status" />
-
-### 💡 Pro Tip: Type `help` in the [interactive terminal](https://htrap1211.github.io/terminal) to explore all features
+[View Full Portfolio →](https://htrap1211.vercel.app)
 
 </div>
