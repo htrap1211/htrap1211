@@ -1,263 +1,265 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
-
-# 👨‍💻 Parth Rathi
-
-**Full-Stack Developer • ML Engineer • OSINT Specialist**
-
-📍 Stuttgart, Germany • 🎓 MS Computer Science @ University of Stuttgart
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://htrap1211.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htrap1211/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/htrap1211)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/htrap1211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htrap1211@icloud.com)
-
-![](https://komarev.com/ghpvc/?username=htrap1211&color=blueviolet&style=for-the-badge)
+![Terminal Header](./assets/terminal.svg)
 
 </div>
 
 ---
 
-## 🔥 Trending Now
+```bash
+┌──[COMMAND CENTER]─[ONLINE]──────────────────────────────────────────────┐
+│ System Status: ● ACTIVE                                                 │
+│ Location: Stuttgart, Germany                                            │
+│ Mission: Building systems that don't exist yet                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+## ⚡ QUICK COMMANDS
+
+```bash
+$ ./connect.sh --social
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://htrap1211.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-00ffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/htrap1211/)
+[![GitHub](https://img.shields.io/badge/github-00ffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/htrap1211)
+[![Twitter](https://img.shields.io/badge/twitter-00ffff?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/htrap1211)
+[![Email](https://img.shields.io/badge/email-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:htrap1211@icloud.com)
+
+![Views](https://komarev.com/ghpvc/?username=htrap1211&color=00ffff&style=for-the-badge&label=VISITORS)
+
+</div>
+
+```bash
+$ cat tech_stack.json
+```
+
+<div align="center">
+
+### 💻 CORE SYSTEMS
+
+![Python](https://img.shields.io/badge/Python-0a0e27?style=for-the-badge&logo=python&logoColor=00ffff)
+![C++](https://img.shields.io/badge/C++-0a0e27?style=for-the-badge&logo=cplusplus&logoColor=00ffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e27?style=for-the-badge&logo=javascript&logoColor=00ffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e27?style=for-the-badge&logo=typescript&logoColor=00ffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e27?style=for-the-badge&logo=fastapi&logoColor=00ffff)
+![React](https://img.shields.io/badge/React-0a0e27?style=for-the-badge&logo=react&logoColor=00ffff)
+![Next.js](https://img.shields.io/badge/Next.js-0a0e27?style=for-the-badge&logo=nextdotjs&logoColor=00ffff)
+![Angular](https://img.shields.io/badge/Angular-0a0e27?style=for-the-badge&logo=angular&logoColor=00ffff)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e27?style=for-the-badge&logo=postgresql&logoColor=00ffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0e27?style=for-the-badge&logo=mongodb&logoColor=00ffff)
+![Redis](https://img.shields.io/badge/Redis-0a0e27?style=for-the-badge&logo=redis&logoColor=00ffff)
+![Neo4j](https://img.shields.io/badge/Neo4j-0a0e27?style=for-the-badge&logo=neo4j&logoColor=00ffff)
+![Docker](https://img.shields.io/badge/Docker-0a0e27?style=for-the-badge&logo=docker&logoColor=00ffff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0e27?style=for-the-badge&logo=tensorflow&logoColor=00ffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0e27?style=for-the-badge&logo=pytorch&logoColor=00ffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0e27?style=for-the-badge&logo=opencv&logoColor=00ffff)
+
+</div>
+
+```bash
+$ ./projects --open --featured
+```
+
+## 🎯 ACTIVE MISSIONS
 
 <table>
 <tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/⭐-999+-orange?style=for-the-badge" /><br>
-<sub>🔥 Hot</sub>
+<td width="50%">
+
+```yaml
+project: GraphX-OSINT
+status: ● PRODUCTION
+priority: HIGH
+```
+
+**Real-time Threat Intelligence Platform**
+
+Advanced OSINT investigation platform with 10+ intelligence providers, risk scoring engine, and interactive graph workspace.
+
+**Tech Stack:**
+- `FastAPI` `Neo4j` `Celery` `Next.js`
+- Distributed enrichment pipelines
+- Real-time graph analytics
+- PDF report generation
+
+```bash
+[████████████████░░░░] 80% Complete
+```
+
 </td>
-<td>
+<td width="50%">
 
-### 🎯 [GraphX-OSINT](https://github.com/htrap1211) - Real-time Threat Intelligence Platform
+```yaml
+project: Phishing-Detection
+status: ● DEPLOYED
+priority: HIGH
+```
 
-<sub>🏷️ `Production` • 👤 htrap1211 • ⏰ 2024</sub>
+**ML-Powered Security System**
 
-Production-grade OSINT investigation platform with **10+ intelligence providers**, risk scoring engine, and interactive graph workspace. Features distributed enrichment pipelines using Celery workers and real-time visual updates.
+Real-time phishing detection using machine learning and threat intelligence APIs with browser extension.
 
-**Stack:** `FastAPI` `Neo4j` `Celery` `Next.js` `Redis` `Cytoscape.js`
+**Tech Stack:**
+- `ML` `FastAPI` `PostgreSQL`
+- Google Safe Browsing API
+- VirusTotal integration
+- Browser extension UI
 
-💡 **Highlights:**
-- 🔍 Multi-source enrichment (DNS, WHOIS, Shodan, VirusTotal, HIBP)
-- 📊 Risk scoring engine (0-100 scale)
-- 🕸️ Interactive graph workspace with pivot actions
-- 📄 Professional PDF report generation
-
-<sub>💬 152 commits • 🌟 Featured Project</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/⭐-856+-orange?style=for-the-badge" /><br>
-<sub>🛡️ Security</sub>
-</td>
-<td>
-
-### 🛡️ URL Phishing Detection System - ML-Powered Security
-
-<sub>🏷️ `Deployed` • 👤 htrap1211 • ⏰ 2024</sub>
-
-Real-time phishing detection platform using **machine learning** and threat intelligence APIs. Built browser extension for instant risk alerts with multi-source verification.
-
-**Stack:** `Machine Learning` `FastAPI` `PostgreSQL` `Browser Extension` `VirusTotal API`
-
-💡 **Highlights:**
-- 🤖 ML models (Logistic Regression, BERT)
-- 🔐 Google Safe Browsing & VirusTotal integration
-- ⚡ Real-time threat detection
-- 🌐 Browser extension UI
-
-<sub>💬 89 commits • 🎯 Cybersecurity</sub>
+```bash
+[████████████████████] 100% Deployed
+```
 
 </td>
 </tr>
 
 <tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/💼-BARC-blue?style=for-the-badge" /><br>
-<sub>⚛️ Nuclear</sub>
-</td>
-<td>
+<td width="50%">
 
-### 💼 Software Engineering Intern @ Bhabha Atomic Research Centre
+```yaml
+project: ACL-MetaExplorer
+status: ● COMPLETE
+priority: MEDIUM
+```
 
-<sub>🏷️ `Experience` • 📍 Mumbai, India • ⏰ Jul 2023 - Jan 2024</sub>
+**Research Analytics Tool**
 
-Contributed to **radiation spectrum analysis system** at India's premier nuclear research facility. Built end-to-end system processing **50K+ data points per hour** used by researchers for nuclear material analysis.
+Graph-based research analytics with TF-IDF analysis and citation network modeling.
 
-**Stack:** `Python` `FastAPI` `PostgreSQL` `Angular` `Redis` `UART`
+**Tech Stack:**
+- `Python` `Streamlit` `Neo4j`
+- TF-IDF text analysis
+- Citation networks
+- Interactive visualizations
 
-💡 **Impact:**
-- ⚡ +20% processing speed
-- 🚀 -25% load time
-- ⏱️ -40% response time
-- 📈 +35% data retrieval speed
-
-<sub>💬 6 months • 🏢 Government Research</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/⭐-432+-orange?style=for-the-badge" /><br>
-<sub>📊 Data</sub>
-</td>
-<td>
-
-### 📊 ACL-MetaExplorer - Research Analytics Tool
-
-<sub>🏷️ `Complete` • 👤 htrap1211 • ⏰ 2024</sub>
-
-Research analytics tool with **graph-based analysis**. Applied TF-IDF text analysis for topic relevance extraction and modeled citation networks to identify influential research patterns.
-
-**Stack:** `Python` `Streamlit` `Neo4j` `SQLite` `TF-IDF`
-
-💡 **Features:**
-- 📝 TF-IDF text analysis
-- 🕸️ Citation network modeling
-- 📈 Interactive visualizations
-- 🔍 Collaboration pattern detection
-
-<sub>💬 67 commits • 🎓 Academic</sub>
+```bash
+[████████████████████] 100% Complete
+```
 
 </td>
-</tr>
+<td width="50%">
 
-<tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/⭐-324+-orange?style=for-the-badge" /><br>
-<sub>🤖 AI</sub>
-</td>
-<td>
+```yaml
+project: Neuralipnet
+status: ● OPTIMIZED
+priority: MEDIUM
+```
 
-### 🤖 Neuralipnet - Real-time Lip Reading AI
+**Real-time Lip Reading AI**
 
-<sub>🏷️ `Optimized` • 👤 htrap1211 • ⏰ 2024</sub>
+Deep learning model for real-time lip-reading with 75% accuracy on custom dataset.
 
-Developed and optimized lip-reading model achieving **75% accuracy** on custom dataset. Implemented real-time video processing pipeline for live applications.
+**Tech Stack:**
+- `TensorFlow` `OpenCV`
+- Real-time video processing
+- Custom dataset training
+- Optimized inference
 
-**Stack:** `TensorFlow` `OpenCV` `Deep Learning` `Computer Vision`
-
-💡 **Performance:**
-- 🎯 75% accuracy
-- ⚡ Real-time processing
-- 🎥 Live video pipeline
-- 🔧 Optimized architecture
-
-<sub>💬 45 commits • 🧠 Deep Learning</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="80" align="center" valign="top">
-<img src="https://img.shields.io/badge/⭐-567+-orange?style=for-the-badge" /><br>
-<sub>👁️ Vision</sub>
-</td>
-<td>
-
-### 👁️ YOLOv5 Detection - High-Performance Computer Vision
-
-<sub>🏷️ `Open Source` • 👤 htrap1211 • ⏰ 2024</sub>
-
-Built high-accuracy object detection system reaching **92.4% accuracy** with **30% faster inference**. Optimized model architecture for efficient deployment.
-
-**Stack:** `PyTorch` `YOLOv5` `Computer Vision` `Model Optimization`
-
-💡 **Metrics:**
-- 🎯 92.4% accuracy
-- ⚡ 30% faster inference
-- 🌐 Open source
-- 🔧 Production-ready
-
-<sub>💬 38 commits • 🚀 Open Source</sub>
+```bash
+[█████████████████░░░] 95% Optimized
+```
 
 </td>
 </tr>
 </table>
 
----
+```bash
+$ git log --experience
+```
 
-## 🛠️ Tech Arsenal
+## 💼 EXPERIENCE LOG
 
-<div align="center">
+```log
+commit a1b2c3d4 (HEAD -> main)
+Author: Parth Rathi <htrap1211@icloud.com>
+Date:   Jul 2023 - Jan 2024
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+    feat: Software Engineering Intern @ BARC
+    
+    Organization: Bhabha Atomic Research Centre
+    Location: Mumbai, India
+    Project: Radiation Spectrum Analysis System
+    
+    Performance Improvements:
+    + Processing speed: +20%
+    + Load time: -25%
+    + Response time: -40%
+    + Data retrieval: +35%
+    + Throughput: 50K+ data points/hour
+    
+    Tech Stack: Python | FastAPI | PostgreSQL | Angular | Redis | UART
+    
+    Impact: System used by researchers at India's premier nuclear
+            research facility for radiation spectrum analysis
+```
 
-### Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+```bash
+$ metrics --github --live
+```
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ML & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub Analytics
+## 📊 SYSTEM METRICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htrap1211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrap1211&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=htrap1211&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e27&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_color=00ffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htrap1211&layout=compact&theme=dark&hide_border=true&bg_color=0a0e27&title_color=00ffff&text_color=ffffff&border_color=00ffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=htrap1211&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=htrap1211&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=htrap1211&theme=dark&hide_border=true&background=0a0e27&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideNums=00ffff&currStreakNum=00ffff&sideLabels=00ffff&dates=ffffff&border=00ffff" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=htrap1211&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00ffff&line=00ffff&point=ffffff&area=true&border_color=00ffff" width="100%" />
 
 </div>
 
----
+```bash
+$ status --current --verbose
+```
 
-## 🎯 Current Mission
+## 🎯 CURRENT STATUS
 
 ```yaml
 focus:
-  - 🔍 Building OSINT intelligence platforms
-  - 🤖 Optimizing ML models for production
-  - 🛡️ Exploring cybersecurity and threat detection
-  - 📚 Master's in Computer Science @ University of Stuttgart
+  primary:
+    - Building OSINT intelligence platforms
+    - Optimizing ML models for production
+    - Exploring cybersecurity and threat detection
+  
+  education:
+    - Master's in Computer Science @ University of Stuttgart
+  
+  availability: OPEN_TO_COLLABORATIONS
 
-status:
-  OSINT_Platform: "████████████████░░░░ 80%"
-  ML_Optimization: "████████████░░░░░░░░ 60%"
-  DevOps_Skills: "██████████████░░░░░░ 70%"
+progress:
+  OSINT_Platform:    "████████████████░░░░ 80%"
+  ML_Optimization:   "████████████░░░░░░░░ 60%"
+  DevOps_Skills:     "██████████████░░░░░░ 70%"
 
-availability: "Open to collaborations and interesting projects"
+mission_statement: |
+  > Decoding reality through code
+  > Building systems that don't exist yet
+  > Breaking limits, one algorithm at a time
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+```bash
+┌──[END OF TRANSMISSION]──────────────────────────────────────────────────┐
+│                                                                          │
+│  "The best way to predict the future is to invent it."                  │
+│                                                                          │
+│  System ready for next command...                                       │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-**Building systems that don't exist yet • Breaking limits, one algorithm at a time**
+[![Portfolio](https://img.shields.io/badge/⚡_LAUNCH_PORTFOLIO-00ffff?style=for-the-badge&logoColor=black)](https://htrap1211.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://htrap1211.vercel.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+```bash
+$ logout
+Connection to command-center closed.
+```
 
 </div>
