@@ -38,7 +38,7 @@
   <text x="20" y="70" font-family="'Courier New', monospace" font-size="16" fill="#00ffff" filter="url(#glow)">
     <tspan x="20" dy="0">$ whoami</tspan>
     <tspan x="20" dy="25" fill="#ffffff">Parth Rathi</tspan>
-    <tspan x="20" dy="25" fill="#888888">Full-Stack Developer | ML Engineer | OSINT Specialist</tspan>
+    <tspan x="20" dy="25" fill="#888888">Full-Stack Developer | ML Engineer | Cybersecurity Explorer</tspan>
     
     <tspan x="20" dy="40" fill="#00ffff">$ cat location.txt</tspan>
     <tspan x="20" dy="25" fill="#ffffff">📍 Stuttgart, Germany</tspan>
