@@ -211,17 +211,21 @@ class Experience:
 
 <div align="center">
 
+### 『 TRANSMISSION LOG 』
+
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
+║  [ENCRYPTED TRANSMISSION]                                     ║
+║  > Decoding reality through code...                           ║
+║  > Building systems that don't exist yet...                   ║
+║  > Breaking limits, one algorithm at a time...                ║
 ║                                                               ║
-║  "The best way to predict the future is to invent it."       ║
-║                                        - Alan Kay             ║
-║                                                               ║
+║  SIGNAL STRENGTH: ████████████████████ 100%                   ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <!-- Terminal Blinking Cursor -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=435&lines=%3E+System+ready+for+next+command...;%3E+Awaiting+input+_" alt="Blinking Cursor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=%3E+Neural+interface+active...;%3E+Quantum+processors+online...;%3E+Ready+to+hack+the+matrix+_" alt="Blinking Cursor" />
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
