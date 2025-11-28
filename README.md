@@ -25,7 +25,6 @@ $ ./connect.sh --social
 [![Portfolio](https://img.shields.io/badge/portfolio-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://htrap1211.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-00ffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/htrap1211/)
 [![GitHub](https://img.shields.io/badge/github-00ffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/htrap1211)
-[![Twitter](https://img.shields.io/badge/twitter-00ffff?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/htrap1211)
 [![Email](https://img.shields.io/badge/email-00ffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:htrap1211@icloud.com)
 
 ![Views](https://komarev.com/ghpvc/?username=htrap1211&color=00ffff&style=for-the-badge&label=VISITORS)
