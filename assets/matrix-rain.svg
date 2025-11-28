@@ -1,0 +1,182 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes fall1 { 0% { transform: translateY(-100%); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(500px); opacity: 0; } }
+      @keyframes fall2 { 0% { transform: translateY(-150%); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(550px); opacity: 0; } }
+      @keyframes fall3 { 0% { transform: translateY(-200%); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(600px); opacity: 0; } }
+      @keyframes fall4 { 0% { transform: translateY(-120%); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(520px); opacity: 0; } }
+      @keyframes fall5 { 0% { transform: translateY(-180%); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(580px); opacity: 0; } }
+      
+      .matrix-char { font-family: 'Courier New', monospace; font-size: 14px; fill: #00ffff; }
+      .matrix-char-dim { fill: #008888; }
+      .matrix-char-bright { fill: #ffffff; filter: url(#glow); }
+      
+      .col1 { animation: fall1 8s linear infinite; }
+      .col2 { animation: fall2 10s linear infinite; animation-delay: -2s; }
+      .col3 { animation: fall3 9s linear infinite; animation-delay: -4s; }
+      .col4 { animation: fall4 11s linear infinite; animation-delay: -1s; }
+      .col5 { animation: fall5 7s linear infinite; animation-delay: -3s; }
+      .col6 { animation: fall1 9s linear infinite; animation-delay: -5s; }
+      .col7 { animation: fall2 8s linear infinite; animation-delay: -6s; }
+      .col8 { animation: fall3 10s linear infinite; animation-delay: -2.5s; }
+      .col9 { animation: fall4 9s linear infinite; animation-delay: -4.5s; }
+      .col10 { animation: fall5 11s linear infinite; animation-delay: -1.5s; }
+    </style>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0a0e27"/>
+  
+  <!-- Matrix Rain Columns -->
+  
+  <!-- Column 1 -->
+  <g class="col1">
+    <text x="40" y="0" class="matrix-char-bright">f</text>
+    <text x="40" y="20" class="matrix-char">e</text>
+    <text x="40" y="40" class="matrix-char">a</text>
+    <text x="40" y="60" class="matrix-char">t</text>
+    <text x="40" y="80" class="matrix-char">:</text>
+    <text x="40" y="100" class="matrix-char-dim">G</text>
+    <text x="40" y="120" class="matrix-char-dim">r</text>
+    <text x="40" y="140" class="matrix-char-dim">a</text>
+    <text x="40" y="160" class="matrix-char-dim">p</text>
+    <text x="40" y="180" class="matrix-char-dim">h</text>
+  </g>
+  
+  <!-- Column 2 -->
+  <g class="col2">
+    <text x="120" y="0" class="matrix-char-bright">O</text>
+    <text x="120" y="20" class="matrix-char">S</text>
+    <text x="120" y="40" class="matrix-char">I</text>
+    <text x="120" y="60" class="matrix-char">N</text>
+    <text x="120" y="80" class="matrix-char">T</text>
+    <text x="120" y="100" class="matrix-char-dim">p</text>
+    <text x="120" y="120" class="matrix-char-dim">l</text>
+    <text x="120" y="140" class="matrix-char-dim">a</text>
+    <text x="120" y="160" class="matrix-char-dim">t</text>
+  </g>
+  
+  <!-- Column 3 -->
+  <g class="col3">
+    <text x="200" y="0" class="matrix-char-bright">f</text>
+    <text x="200" y="20" class="matrix-char">i</text>
+    <text x="200" y="40" class="matrix-char">x</text>
+    <text x="200" y="60" class="matrix-char">:</text>
+    <text x="200" y="80" class="matrix-char">M</text>
+    <text x="200" y="100" class="matrix-char-dim">L</text>
+    <text x="200" y="120" class="matrix-char-dim">m</text>
+    <text x="200" y="140" class="matrix-char-dim">o</text>
+    <text x="200" y="160" class="matrix-char-dim">d</text>
+    <text x="200" y="180" class="matrix-char-dim">e</text>
+    <text x="200" y="200" class="matrix-char-dim">l</text>
+  </g>
+  
+  <!-- Column 4 -->
+  <g class="col4">
+    <text x="280" y="0" class="matrix-char-bright">a</text>
+    <text x="280" y="20" class="matrix-char">d</text>
+    <text x="280" y="40" class="matrix-char">d</text>
+    <text x="280" y="60" class="matrix-char">:</text>
+    <text x="280" y="80" class="matrix-char">A</text>
+    <text x="280" y="100" class="matrix-char-dim">P</text>
+    <text x="280" y="120" class="matrix-char-dim">I</text>
+  </g>
+  
+  <!-- Column 5 -->
+  <g class="col5">
+    <text x="360" y="0" class="matrix-char-bright">r</text>
+    <text x="360" y="20" class="matrix-char">e</text>
+    <text x="360" y="40" class="matrix-char">f</text>
+    <text x="360" y="60" class="matrix-char">a</text>
+    <text x="360" y="80" class="matrix-char">c</text>
+    <text x="360" y="100" class="matrix-char">t</text>
+    <text x="360" y="120" class="matrix-char">o</text>
+    <text x="360" y="140" class="matrix-char">r</text>
+    <text x="360" y="160" class="matrix-char-dim">c</text>
+    <text x="360" y="180" class="matrix-char-dim">o</text>
+    <text x="360" y="200" class="matrix-char-dim">d</text>
+    <text x="360" y="220" class="matrix-char-dim">e</text>
+  </g>
+  
+  <!-- Column 6 -->
+  <g class="col6">
+    <text x="440" y="0" class="matrix-char-bright">u</text>
+    <text x="440" y="20" class="matrix-char">p</text>
+    <text x="440" y="40" class="matrix-char">d</text>
+    <text x="440" y="60" class="matrix-char">a</text>
+    <text x="440" y="80" class="matrix-char">t</text>
+    <text x="440" y="100" class="matrix-char">e</text>
+    <text x="440" y="120" class="matrix-char-dim">D</text>
+    <text x="440" y="140" class="matrix-char-dim">B</text>
+  </g>
+  
+  <!-- Column 7 -->
+  <g class="col7">
+    <text x="520" y="0" class="matrix-char-bright">p</text>
+    <text x="520" y="20" class="matrix-char">e</text>
+    <text x="520" y="40" class="matrix-char">r</text>
+    <text x="520" y="60" class="matrix-char">f</text>
+    <text x="520" y="80" class="matrix-char">:</text>
+    <text x="520" y="100" class="matrix-char-dim">+</text>
+    <text x="520" y="120" class="matrix-char-dim">2</text>
+    <text x="520" y="140" class="matrix-char-dim">0</text>
+    <text x="520" y="160" class="matrix-char-dim">%</text>
+  </g>
+  
+  <!-- Column 8 -->
+  <g class="col8">
+    <text x="600" y="0" class="matrix-char-bright">d</text>
+    <text x="600" y="20" class="matrix-char">o</text>
+    <text x="600" y="40" class="matrix-char">c</text>
+    <text x="600" y="60" class="matrix-char">s</text>
+    <text x="600" y="80" class="matrix-char">:</text>
+    <text x="600" y="100" class="matrix-char-dim">R</text>
+    <text x="600" y="120" class="matrix-char-dim">E</text>
+    <text x="600" y="140" class="matrix-char-dim">A</text>
+    <text x="600" y="160" class="matrix-char-dim">D</text>
+    <text x="600" y="180" class="matrix-char-dim">M</text>
+    <text x="600" y="200" class="matrix-char-dim">E</text>
+  </g>
+  
+  <!-- Column 9 -->
+  <g class="col9">
+    <text x="680" y="0" class="matrix-char-bright">t</text>
+    <text x="680" y="20" class="matrix-char">e</text>
+    <text x="680" y="40" class="matrix-char">s</text>
+    <text x="680" y="60" class="matrix-char">t</text>
+    <text x="680" y="80" class="matrix-char">:</text>
+    <text x="680" y="100" class="matrix-char-dim">p</text>
+    <text x="680" y="120" class="matrix-char-dim">a</text>
+    <text x="680" y="140" class="matrix-char-dim">s</text>
+    <text x="680" y="160" class="matrix-char-dim">s</text>
+  </g>
+  
+  <!-- Column 10 -->
+  <g class="col10">
+    <text x="760" y="0" class="matrix-char-bright">✓</text>
+    <text x="760" y="20" class="matrix-char">d</text>
+    <text x="760" y="40" class="matrix-char">e</text>
+    <text x="760" y="60" class="matrix-char">p</text>
+    <text x="760" y="80" class="matrix-char">l</text>
+    <text x="760" y="100" class="matrix-char">o</text>
+    <text x="760" y="120" class="matrix-char">y</text>
+    <text x="760" y="140" class="matrix-char-dim">e</text>
+    <text x="760" y="160" class="matrix-char-dim">d</text>
+  </g>
+  
+  <!-- Center text overlay -->
+  <text x="400" y="200" font-family="'Courier New', monospace" font-size="24" fill="#00ffff" text-anchor="middle" filter="url(#glow)">
+    CONTRIBUTIONS
+  </text>
+  <text x="400" y="230" font-family="'Courier New', monospace" font-size="16" fill="#ffffff" text-anchor="middle" opacity="0.8">
+    Building the Matrix, one commit at a time
+  </text>
+</svg>

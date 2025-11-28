@@ -213,6 +213,16 @@ $ metrics --github --live
 </div>
 
 ```bash
+$ ./matrix --rain --contributions
+```
+
+<div align="center">
+
+![Matrix Rain](./assets/matrix-rain.svg)
+
+</div>
+
+```bash
 $ status --current --verbose
 ```
 
