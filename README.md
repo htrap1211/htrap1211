@@ -7,11 +7,11 @@
 ---
 
 ```bash
-┌──[COMMAND CENTER]─[ONLINE]──────────────────────────────────────────────┐
-│ System Status: ● ACTIVE                                                 │
-│ Location: Stuttgart, Germany                                            │
-│ Mission: Building systems that don't exist yet                          │
-└─────────────────────────────────────────────────────────────────────────┘
+┌──[COMMAND CENTER]─[ONLINE]────────────────────────────────────────────┐
+│ System Status: ● ACTIVE                                                │
+│ Location: Stuttgart, Germany                                           │
+│ Mission: Building systems that don't exist yet                         │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## ⚡ QUICK COMMANDS
@@ -93,6 +93,32 @@ Advanced OSINT investigation platform with 10+ intelligence providers, risk scor
 <td width="50%">
 
 ```yaml
+project: Lavanya Infrastructure
+status: ● DEVELOPMENT
+priority: HIGH
+```
+
+**Corporate Web Platform**
+
+Premium digital presence for construction & infrastructure company with mobile-first design and Apple-inspired UI.
+
+**Tech Stack:**
+- `Vue.js 3` `Vite` `SCSS` `Bootstrap`
+- Responsive design system
+- Premium animations
+- Contact form integration
+
+```bash
+[██████████████░░░░░░] 70% Complete
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+```yaml
 project: Phishing-Detection
 status: ● DEPLOYED
 priority: HIGH
@@ -113,9 +139,6 @@ Real-time phishing detection using machine learning and threat intelligence APIs
 ```
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ```yaml
@@ -139,6 +162,9 @@ Graph-based research analytics with TF-IDF analysis and citation network modelin
 ```
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ```yaml
@@ -160,6 +186,9 @@ Deep learning model for real-time lip-reading with 75% accuracy on custom datase
 ```bash
 [█████████████████░░░] 95% Optimized
 ```
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -236,7 +265,7 @@ focus:
   
   education:
     - Master's in Computer Science @ University of Stuttgart
-  
+    
   availability: OPEN_TO_COLLABORATIONS
 
 progress:
@@ -255,13 +284,13 @@ mission_statement: |
 <div align="center">
 
 ```bash
-┌──[END OF TRANSMISSION]──────────────────────────────────────────────────┐
-│                                                                          │
-│  "The best way to predict the future is to invent it."                  │
-│                                                                          │
-│  System ready for next command...                                       │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+┌──[END OF TRANSMISSION]────────────────────────────────────────────────┐
+│                                                                        │
+│  "The best way to predict the future is to invent it."                │
+│                                                                        │
+│  System ready for next command...                                     │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 [![Portfolio](https://img.shields.io/badge/⚡_LAUNCH_PORTFOLIO-00ffff?style=for-the-badge&logoColor=black)](https://htrap1211.vercel.app)
